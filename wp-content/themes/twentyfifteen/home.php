@@ -30,7 +30,7 @@
 			</div>
 			<div class="main-box-description">
 				<p>
-					Launchpad for new startups and businesses.
+					Launchpad for new startup and businesses.
 				</p>
 			</div>
 
